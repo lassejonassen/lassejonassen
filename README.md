@@ -16,9 +16,9 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Chat-box for websites</li>
   <li>Portfolio site</li>
   <li>E-commerce website</li>
-  <li>Facebook clone</li>
-  <li>Instagram clone</li>
-  <li>Twitter clone</li>
+  <li>Facebook clone </li>
+  <li>Instagram clone [MERN stack]</li>
+  <li>Twitter clone [MERN stack]</li>
   <li>Twitter bot</li>
   <li>Expense tracker</li>
   <li>Lunch picker</li>
@@ -27,3 +27,4 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Wishlist application</li>
   <li>Random number picker</li>
 </ul>
+ 
