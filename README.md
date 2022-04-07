@@ -26,5 +26,8 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Weather forecast</li>
   <li>Wishlist application</li>
   <li>Random number picker</li>
+  <li>Bandwidth monitor</li>
+  <li>Real-time communications app</li>
+  <li>Note-taking application</li>
 </ul>
  
