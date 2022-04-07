@@ -10,24 +10,21 @@ When im developing software i focus on the quality of my code and making it as s
 
 ## Future projects
 <ul>
-  <li>Blog, with admin dashboard</li>
-  <li>BMI calculator</li>
-  <li>BMW coding options</li>
+  <li>Blog, with admin dashboard [Wordpress or ASP.NET]</li>
+  <li>BMI calculator [HTML/CSS/JS]</li>
+  <li>BMW coding options [ASP.NET]</li>
   <li>Chat-box for websites</li>
   <li>Portfolio site</li>
-  <li>E-commerce website</li>
+  <li>E-commerce website [MERN & ASP.NET & SHOPIFY]</li>
   <li>Facebook clone </li>
   <li>Instagram clone [MERN stack]</li>
   <li>Twitter clone [MERN stack]</li>
-  <li>Twitter bot</li>
-  <li>Expense tracker</li>
-  <li>Lunch picker</li>
-  <li>Quiz game</li>
-  <li>Weather forecast</li>
+  <li>Twitter bot [Python & C# & JS]</li>
+  <li>Expense tracker [MERN]</li>
+  <li>Lunch picker [MERN]</li>
+  <li>Quiz game [ASP.NET]</li>
+  <li>Weather forecast [MERN]</li>
   <li>Wishlist application</li>
   <li>Random number picker</li>
-  <li>Bandwidth monitor</li>
-  <li>Real-time communications app</li>
-  <li>Note-taking application</li>
 </ul>
  
