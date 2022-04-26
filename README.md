@@ -10,7 +10,7 @@ When im developing software i focus on the quality of my code and making it as s
 
 ## Future projects
 <ul>
-  <li>Blog, with admin dashboard [Wordpress or ASP.NET]</li>
+  <li>Blog n[Wordpress]</li>
   <li>BMI calculator [HTML/CSS/JS]</li>
   <li>BMW coding options [ASP.NET]</li>
   <li>Chat-box for websites</li>
