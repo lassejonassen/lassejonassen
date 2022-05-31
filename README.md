@@ -10,16 +10,9 @@ When im developing software i focus on the quality of my code and making it as s
 
 ## Future projects
 <ul>
-  <li>Blog n[Wordpress]</li>
-  <li>BMI calculator [HTML/CSS/JS]</li>
-  <li>BMW coding options [ASP.NET]</li>
   <li>Chat-box for websites</li>
   <li>Portfolio site</li>
   <li>E-commerce website [MERN & ASP.NET & SHOPIFY]</li>
-  <li>Facebook clone </li>
-  <li>Instagram clone [MERN stack]</li>
-  <li>Twitter clone [MERN stack]</li>
-  <li>Twitter bot [Python & C# & JS]</li>
   <li>Expense tracker [MERN]</li>
   <li>Lunch picker [MERN]</li>
   <li>Quiz game [ASP.NET]</li>
@@ -27,5 +20,29 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Wishlist application</li>
   <li>Random number picker</li>
   <li>Recipe website</li>
+  
+  
+  <li>Blog [Wordpress</li>
+  <li>BMI Calculator [HTML/CSS/JS]</li>
+  <li>BMW Coding Options [ReactJS, ExpressJS, MySQL || ReactJS, ASP.NET, MySQL]</li>
+  <li>Twitter Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
+  <li>Instagram Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
+  <li>Facebook Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
 </ul>
  
