@@ -26,5 +26,6 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Weather forecast [MERN]</li>
   <li>Wishlist application</li>
   <li>Random number picker</li>
+  <li>Recipe website</li>
 </ul>
  
