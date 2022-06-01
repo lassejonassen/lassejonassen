@@ -16,3 +16,6 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Recipe Platform</li>
 </ul>
  
+
+## Other
+- I would like to do some machine learning at some point as well as Artificial Intelligence
