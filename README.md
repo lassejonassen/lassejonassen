@@ -10,39 +10,9 @@ When im developing software i focus on the quality of my code and making it as s
 
 ## Future projects
 <ul>
-  <li>Chat-box for websites</li>
-  <li>Portfolio site</li>
-  <li>E-commerce website [MERN & ASP.NET & SHOPIFY]</li>
-  <li>Expense tracker [MERN]</li>
-  <li>Lunch picker [MERN]</li>
-  <li>Quiz game [ASP.NET]</li>
-  <li>Weather forecast [MERN]</li>
-  <li>Wishlist application</li>
-  <li>Random number picker</li>
-  <li>Recipe website</li>
-  
-  
-  <li>Blog [Wordpress</li>
-  <li>BMI Calculator [HTML/CSS/JS]</li>
-  <li>BMW Coding Options [ReactJS, ExpressJS, MySQL || ReactJS, ASP.NET, MySQL]</li>
-  <li>Twitter Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
-  <li>Instagram Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
-  <li>Facebook Clone [MERN Stack && ReactJS, ASP.NET, MySQL]</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
+  <li>BMW Coding Options</li>
+  <li>Content Management System</li>
+  <li>Wishlist Application</li>
+  <li>Recipe Platform</li>
 </ul>
  
