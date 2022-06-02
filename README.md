@@ -10,12 +10,19 @@ When im developing software i focus on the quality of my code and making it as s
 
 ## Future projects
 <ul>
+<li>Change Management System</li>
+  <li>Time Tracking App</li>
+  <li>Association Management System</li>
+  <li>Fitness Management System</li>
   <li>BMW Coding Options</li>
   <li>Content Management System</li>
-  <li>Wishlist Application</li>
   <li>Recipe Platform</li>
+  <li>Whichlist Application</li>
 </ul>
  
 
-## Other
-- I would like to do some machine learning at some point as well as Artificial Intelligence
+## What i want to learn
+- Get better at web development
+- Learn mobile development
+- Learn AWS
+- Learn Machine Learning
