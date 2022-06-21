@@ -1,12 +1,27 @@
-# Hey there
-My name is Lasse Jonassen. I'm AP Computer Science student currently working at Arla, while i am trying to start my own software company. The idea of creating value for people and being able to make a living out of that is what is driving my passion for software development.
+# About me
 
-When im developing software i focus on the quality of my code and making it as simple as possible.
+I'm a fullstack web developer from Denmark
+* I am currently a AP Computer Science student and working for Arla Foods Ingredients as a student assistant.
+* Exploring different technologies
+* In my freetime i love to work on my own projects.
+* How to reach me: (Link to linkedin)
 
-💼 Looking for some work? Reach me <a href="mailto:lmj@on3dge.com">here</a>.
-<br>
-💬 If you have any questions, feel free to contact me.
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+</div>
 
+### :fire: Things i want to get learn or get better at :
+- Web development
+- Mobile development
+- Amazon Web Services
+- Machine Learning
 
 ## Future projects
 <ul>
@@ -19,10 +34,4 @@ When im developing software i focus on the quality of my code and making it as s
   <li>Recipe Platform</li>
   <li>Whichlist Application</li>
 </ul>
- 
 
-## What i want to learn
-- Get better at web development
-- Learn mobile development
-- Learn AWS
-- Learn Machine Learning
