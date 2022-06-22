@@ -23,15 +23,16 @@ I'm a fullstack web developer from Denmark
 - Amazon Web Services
 - Machine Learning
 
-## Future projects
+## Projects i want to do
 <ul>
-<li>Change Management System</li>
-  <li>Time Tracking App</li>
-  <li>Association Management System</li>
-  <li>Fitness Management System</li>
-  <li>BMW Coding Options</li>
-  <li>Content Management System</li>
-  <li>Recipe Platform</li>
-  <li>Whichlist Application</li>
+  <li>Employee Management System :heavy_check_mark:</li>
+  <li>Change Management System :x:</li>
+  <li>Time Tracking App :x:</li>
+  <li>Association Management System :x:</li>
+  <li>Fitness Management System :x:</li>
+  <li>BMW Coding Options :x:</li>
+  <li>Content Management System :x:</li>
+  <li>Recipe Platform :x:</li>
+  <li>Whichlist Application :x:</li>
 </ul>
 
