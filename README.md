@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [BMW Coding Options](https://github.com/lassejonassen/bmw-coding-options)
 
-- 🌱 I’m currently learning **MERN-stack**
+- 🌱 I’m currently learning **Microservices, Docker, Kubernetes with .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lassejonassen](https://github.com/lassejonassen)
 
